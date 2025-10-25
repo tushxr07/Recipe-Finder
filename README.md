@@ -1,11 +1,10 @@
 # Recipe-Finder
 
-A full-stack website powered by the Spoonacular API, serving 10,000+ recipe requests/min and 5,000+ daily users. It delivers up-to-date recipe data with automated API syncs that cut manual errors by 90%.
+A simple and responsive Recipe Finder web app that lets users search for recipes by ingredient or dish name. This project focuses on frontend design and API integration to display delicious recipes from around the web.
 
 Tech Stack:
 
 🧩 Frontend: HTML, CSS, JavaScript
-🧩 Backend: Node.js / Express
 🧩 API: Spoonacular REST API
 
 Features:
